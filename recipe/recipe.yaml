@@ -10,8 +10,10 @@ package:
   version: ${{ version }}
 
 source:
-  url: https://pypi.org/packages/source/r/robotframework-ghareports/robotframework_ghareports-${{ version }}.tar.gz
-  sha256: 797228d19167d3037b038add8f6d37bf75baf407e6d677752a9e6ece60043e29
+  - url: https://raw.githubusercontent.com/rasjani/robotframework-ghareports/refs/heads/main/LICENSE
+    sha256: 3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986
+  - url: https://pypi.org/packages/source/r/robotframework-ghareports/robotframework_ghareports-${{ version }}.tar.gz
+    sha256: 797228d19167d3037b038add8f6d37bf75baf407e6d677752a9e6ece60043e29
 
 build:
   number: 0
