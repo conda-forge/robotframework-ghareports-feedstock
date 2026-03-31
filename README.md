@@ -3,11 +3,13 @@ About robotframework-ghareports-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/robotframework-ghareports-feedstock/blob/main/LICENSE.txt)
 
-Home: https://github.com/rasjani/robotframework-ghareports
+Home: https://pypi.org/project/robotframework-ghareports
 
 Package license: GPL-3.0-or-later
 
 Summary: Simple github action summary report for robotframework
+
+Development: https://github.com/rasjani/robotframework-ghareports
 
 Current build status
 ====================
