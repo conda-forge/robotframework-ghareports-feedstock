@@ -2,7 +2,7 @@
 schema_version: 1
 
 context:
-  version: "0.9.1"
+  version: "0.9.2"
 
 package:
   name: robotframework-ghareports
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/r/robotframework-ghareports/robotframework_ghareports-${{ version }}.tar.gz
-  sha256: 838b778588fd6b5e0cd7e81992af15ea170a80c66cb0fd4735ef81473152639b
+  sha256: 797228d19167d3037b038add8f6d37bf75baf407e6d677752a9e6ece60043e29
 
 build:
   number: 0
