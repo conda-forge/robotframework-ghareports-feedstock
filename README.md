@@ -3,21 +3,22 @@ About robotframework-ghareports-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/robotframework-ghareports-feedstock/blob/main/LICENSE.txt)
 
-Home: https://github.com/rasjani/robotframework-ghareports
+Home: https://pypi.org/project/robotframework-ghareports
 
 Package license: GPL-3.0-or-later
 
 Summary: Simple github action summary report for robotframework
 
+Development: https://github.com/rasjani/robotframework-ghareports
+
 Current build status
 ====================
 
 
-<table><tr><td>All platforms:</td>
+<table><tr>
+    <td>All platforms:</td>
     <td>
-      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=25236&branchName=main">
-        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/robotframework-ghareports-feedstock?branchName=main">
-      </a>
+      <img src="https://img.shields.io/badge/noarch-disabled-lightgrey.svg" alt="noarch disabled">
     </td>
   </tr>
 </table>
